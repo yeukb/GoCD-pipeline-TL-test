@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:bionic
 
 ENV MYSQL_HOST="DB_Server"
 ENV MYSQL_PASSWORD="5TTnvuTDJJSq6"
